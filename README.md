@@ -5,6 +5,7 @@
 Похибка оцінюється за правилом Рунге.
 
 
+
 # Classic Runge-Kutta method
 
 This program numerically integrates unstable nonlinear ordinary first-order differential equations system (Lorenz equations system) with classic Runge-Kutta method (explicit 4-order Runge-Kutta method).
